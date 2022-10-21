@@ -1,0 +1,17 @@
+{
+    "name": "jmg/quetepsr4",
+    "description": "Quete PSR4",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jean-Marc Guilaume",
+            "email": "jeanmarc.guillaumee@gmail.com"
+        }
+    ],
+    "require": {}
+}
